@@ -1,5 +1,5 @@
 # AlejandroCalizaya
-Hola 👋 , soy estudiante de **UTEC**; estoy cursando carrera **CS** y actualmente estoy en el ***primer ciclo***. Sí, así es, estoy empezando en el mundo de la programación.
+Hola 👋 , soy estudiante de [**UTEC**](utec.edu.pe); estoy cursando carrera **CS** y actualmente estoy en el ***primer ciclo***. Sí, así es, estoy empezando en el mundo de la programación.
 
 ## Intereses
 - Me gustan muchos los videojuegos 🎮 , pero lo que más disfruto son los *rítmicos* 🎵 , *Minecraft* y la *saga GTA* 🔫
