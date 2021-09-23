@@ -11,3 +11,6 @@ Hola 👋 , soy estudiante de [**UTEC**](utec.edu.pe); estoy cursando carrera **
 ## Objetivos a conseguir
 - Con esta meta de saber a programar, mi sueño (como amante de los videojuegos) es trabajar para una empresa desarrolladora como *Mojang* o *Bethesda*.
 - Dominar los lenguajes de programación como: *Java, C++, Lua, Python, etc*.
+
+## Redes sociales
+- [![Twitter](https://i.ytimg.com/an/iT92zx790c4/52a22654-df9a-4af4-bc91-aade44b1af5d_mq.jpg?v=59a719df)](https://twitter.com/SubstexGD)
