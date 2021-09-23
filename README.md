@@ -13,5 +13,5 @@ Hola 👋 , soy estudiante de [**UTEC**](utec.edu.pe); estoy cursando carrera **
 - Dominar los lenguajes de programación como: *Java, C++, Lua, Python, etc*.
 
 ## Redes sociales
-- [![Twitter](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)](https://twitter.com/SubstexGD)
-- [![Youtube](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg)](https://www.youtube.com/channel/UCvdSi6EAiq6u3JcBZ9FwvYg)
+- [***Twitter***](https://twitter.com/SubstexGD)
+- [***Youtube***](https://www.youtube.com/channel/UCvdSi6EAiq6u3JcBZ9FwvYg)
