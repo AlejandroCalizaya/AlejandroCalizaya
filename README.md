@@ -13,4 +13,4 @@ Hola 👋 , soy estudiante de [**UTEC**](utec.edu.pe); estoy cursando carrera **
 - Dominar los lenguajes de programación como: *Java, C++, Lua, Python, etc*.
 
 ## Redes sociales
-- [![Twitter](https://i.ytimg.com/an/iT92zx790c4/52a22654-df9a-4af4-bc91-aade44b1af5d_mq.jpg?v=59a719df)](https://twitter.com/SubstexGD)
+- [![Twitter](https://user-images.githubusercontent.com/91271621/134539408-25b58c21-3c93-45e7-8b88-5b0ff130a4cf.png)](https://twitter.com/SubstexGD)
